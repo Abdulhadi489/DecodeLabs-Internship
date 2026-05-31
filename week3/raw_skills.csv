@@ -1,0 +1,8 @@
+# Temporary dataset representing raw_skills.csv for our logic skeleton
+job_dataset = {
+    "Data Scientist": ["python", "sql", "machine learning", "data analysis"],
+    "DevOps Engineer": ["aws", "docker", "kubernetes", "automation", "git"],
+    "Backend Developer": ["java", "python", "sql", "apis", "git"],
+    "Frontend Developer": ["javascript", "html", "css", "react", "git"],
+    "Cybersecurity Analyst": ["networks", "linux", "security", "sql"]
+}
